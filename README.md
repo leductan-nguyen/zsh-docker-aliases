@@ -10,11 +10,6 @@ git clone https://github.com/leductan-nguyen/zsh-docker-aliases.git  ~/.oh-my-zs
 # then add `zsh-docker-aliases` to `plugins` in your .zshrc
 ```
 
-### With [zinit][4]
-```sh
-zinit light akarzim/zsh-docker-aliases
-```
-
 ## Aliases
 
 ### Docker
