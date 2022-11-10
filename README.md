@@ -4,15 +4,9 @@ Defines [Docker][1] aliases and functions.
 
 ## How to Install
 
-### With [zplug][2]
-
-```sh
-zplug "akarzim/zsh-docker-aliases"
-```
-
 ### With [Oh My Zsh](https://ohmyz.sh/):
 ```sh
-git clone https://github.com/akarzim/zsh-docker-aliases.git  ~/.oh-my-zsh/custom/plugins/zsh-docker-aliases
+git clone https://github.com/leductan-nguyen/zsh-docker-aliases.git  ~/.oh-my-zsh/custom/plugins/zsh-docker-aliases
 # then add `zsh-docker-aliases` to `plugins` in your .zshrc
 ```
 
